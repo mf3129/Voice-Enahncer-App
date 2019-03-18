@@ -2,7 +2,9 @@
 Umm...Record & Enhance Your Voice With Several Options To Choose From. Enjoy! 
 
 
-<img width="300" height="500" alt="screen shot 2019-01-02 at 00 25 12" src="https://user-images.githubusercontent.com/43025563/50584540-0dd2ac00-0e25-11e9-93fb-a08ea0a4903e.png"><img width="300" height="500" alt="screen shot 2019-01-02 at 00 25 26" src="https://user-images.githubusercontent.com/43025563/50584542-10350600-0e25-11e9-87ce-0bd5c460560f.png">
+
+<img width="300" height="600" alt="Screen Shot 2019-03-18 at 16 54 00" src="https://user-images.githubusercontent.com/43025563/54563132-d2189e80-499e-11e9-8419-e770f86cd66d.png"><img width="300" height="600" alt="Screen Shot 2019-03-18 at 16 55 48" src="https://user-images.githubusercontent.com/43025563/54563133-d2189e80-499e-11e9-94f3-9c3876b0e945.png">
+
 
 #
 #
