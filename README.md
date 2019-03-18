@@ -1,4 +1,4 @@
-# Voice-Enahncer-App
+# Voice-Enhancer-App
 Umm...Record & Enhance Your Voice With Several Options To Choose From. Enjoy! 
 
 
